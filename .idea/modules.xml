@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab01.2/Lab01.2.iml" filepath="$PROJECT_DIR$/Lab01.2/Lab01.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab01.7/Lab01.7.iml" filepath="$PROJECT_DIR$/Lab01.7/Lab01.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab02.1/Lab02.1.iml" filepath="$PROJECT_DIR$/Lab02.1/Lab02.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab02.3/Lab02.3.iml" filepath="$PROJECT_DIR$/Lab02.3/Lab02.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab03.1/Lab03.1.iml" filepath="$PROJECT_DIR$/Lab03.1/Lab03.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab03.2/Lab03.2.iml" filepath="$PROJECT_DIR$/Lab03.2/Lab03.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab03.3/Lab03.3.iml" filepath="$PROJECT_DIR$/Lab03.3/Lab03.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab04.1/Lab04.1.iml" filepath="$PROJECT_DIR$/Lab04.1/Lab04.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab04.2/Lab04.2.iml" filepath="$PROJECT_DIR$/Lab04.2/Lab04.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05.1/Lab05.1.iml" filepath="$PROJECT_DIR$/Lab05.1/Lab05.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05.2/Lab05.2.iml" filepath="$PROJECT_DIR$/Lab05.2/Lab05.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05.3/Lab05.3.iml" filepath="$PROJECT_DIR$/Lab05.3/Lab05.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05.4/Lab05.4.iml" filepath="$PROJECT_DIR$/Lab05.4/Lab05.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab06.1/Lab06.1.iml" filepath="$PROJECT_DIR$/Lab06.1/Lab06.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab07.1/Lab07.1.iml" filepath="$PROJECT_DIR$/Lab07.1/Lab07.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab07.2/Lab07.2.iml" filepath="$PROJECT_DIR$/Lab07.2/Lab07.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab08.1/Lab08.1.iml" filepath="$PROJECT_DIR$/Lab08.1/Lab08.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab08.2/Lab08.2.iml" filepath="$PROJECT_DIR$/Lab08.2/Lab08.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab09.1/Lab09.1.iml" filepath="$PROJECT_DIR$/Lab09.1/Lab09.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab10.1/Lab10.1.iml" filepath="$PROJECT_DIR$/Lab10.1/Lab10.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab11.1A/Lab11.1A.iml" filepath="$PROJECT_DIR$/Lab11.1A/Lab11.1A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab11.1B/Lab11.1B.iml" filepath="$PROJECT_DIR$/Lab11.1B/Lab11.1B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab11.2/Lab11.2.iml" filepath="$PROJECT_DIR$/Lab11.2/Lab11.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab11.4/Lab11.4.iml" filepath="$PROJECT_DIR$/Lab11.4/Lab11.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab12.1/Lab12.1.iml" filepath="$PROJECT_DIR$/Lab12.1/Lab12.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab01.1/MiniLab01.1.iml" filepath="$PROJECT_DIR$/MiniLab01.1/MiniLab01.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab01.2/MiniLab01.2.iml" filepath="$PROJECT_DIR$/MiniLab01.2/MiniLab01.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab02.1/MiniLab02.1.iml" filepath="$PROJECT_DIR$/MiniLab02.1/MiniLab02.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab02.2/MiniLab02.2.iml" filepath="$PROJECT_DIR$/MiniLab02.2/MiniLab02.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab04.1/MiniLab04.1.iml" filepath="$PROJECT_DIR$/MiniLab04.1/MiniLab04.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab06.1/MiniLab06.1.iml" filepath="$PROJECT_DIR$/MiniLab06.1/MiniLab06.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab08.1/MiniLab08.1.iml" filepath="$PROJECT_DIR$/MiniLab08.1/MiniLab08.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab08.2/MiniLab08.2.iml" filepath="$PROJECT_DIR$/MiniLab08.2/MiniLab08.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab09.1/MiniLab09.1.iml" filepath="$PROJECT_DIR$/MiniLab09.1/MiniLab09.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab11.1/MiniLab11.1.iml" filepath="$PROJECT_DIR$/MiniLab11.1/MiniLab11.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab11.2/MiniLab11.2.iml" filepath="$PROJECT_DIR$/MiniLab11.2/MiniLab11.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/part-2-workspace.iml" filepath="$PROJECT_DIR$/.idea/part-2-workspace.iml" />
+    </modules>
+  </component>
+</project>

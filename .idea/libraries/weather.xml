@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="weather">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MiniLab08.2/weather.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
